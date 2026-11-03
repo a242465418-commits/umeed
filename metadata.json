@@ -1,0 +1,6 @@
+{
+  "name": "UMEED — Together, We Can Make a Difference",
+  "description": "Official founding website of UMEED, an honest, community-driven humanitarian initiative dedicated to education, food, healthcare, essential supplies, disaster relief, and community support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
